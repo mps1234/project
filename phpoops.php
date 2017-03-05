@@ -10,5 +10,11 @@
 	Checking git branching, again changes.......branch contact fix ..contact form
 
 	testing git and github !
+
+
+	<?php
+		echo "Signup";
+		signup
+	?>
 </body>
 </html>
